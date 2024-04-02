@@ -20,7 +20,7 @@ def speech_to_text():
             st.error("Sorry, I couldn't understand the audio.")
             return None
         except sr.RequestError as e:
-            st.error(f"Could not request results from Google Speech Recognition service; {e}")
+            st.error(f"Could not request results from speech recognition service; {e}")
             return None
 
 def main():
