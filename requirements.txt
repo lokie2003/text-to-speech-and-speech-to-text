@@ -1,4 +1,6 @@
 streamlit
 SpeechRecognition==3.8.1
+portaudio
 pyttsx3==2.90
 pyaudio==0.2.11
+
