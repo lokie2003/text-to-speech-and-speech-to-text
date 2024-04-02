@@ -1,3 +1,5 @@
 streamlit
 pyttsx3
 speechrecognition
+portaudio19-dev
+
